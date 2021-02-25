@@ -629,8 +629,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58227e0ac7d491845af6ceaadb3ce471, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_GridWidth: 0
-  m_GridHeight: 0
-  m_NodeSize: 0
+  m_GridWidth: 20
+  m_GridHeight: 20
+  m_NodeSize: 0.5
   m_MovementAgent: {fileID: 50488840}
   m_Cursor: {fileID: 766720697}
+  SimplifyMovement: 1
